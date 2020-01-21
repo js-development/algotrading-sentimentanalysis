@@ -1,0 +1,13 @@
+---
+title: "Ausarbeitung"
+author: "Hendrik Pfaff"
+date: "17 10 2017"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+Hallo Welt!2
